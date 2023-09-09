@@ -16,3 +16,7 @@ This repository holds an end-to-end Data Analytics project, analyzing and visual
 ### Software requirements:
 
 The code is written in Python, so make sure to have the latest version of python installed. For scripting, either an IDE or an online platform such as Jupyter or Google Colab could be used. To install the necessary libraries, please open your terminal/CMD and enter pip install 'library name'.
+
+### Contributor
+
+[Nikhil Sukhdev](https://github.com/nikhilsukhdev)
