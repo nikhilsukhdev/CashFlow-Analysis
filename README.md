@@ -1,7 +1,7 @@
 # CashFlow-Analysis
 
 ### Introduction
-This repository holds an end-to-end Data Analytics project, analyzing and visualizing the financial cash flow of a company. Financial records worth 3 years have been analyzed and visualized on Power BI.
+This repository holds an end-to-end Data Analytics project, analyzing and visualizing the financial cash flow of a logistics company. Financial records worth 3 years have been analyzed and visualized on Power BI.
 
 ### The repo contanis the following items: 
 **1. Dataset**
@@ -15,4 +15,4 @@ This repository holds an end-to-end Data Analytics project, analyzing and visual
 
 ### Software requirements:
 
-The code is written in Python, so make sure to have the latest version of python installed. For scripting, either an IDE or an online platform such as Jupyter or Google Colab could be used. To install the necessary libraries, please open your terminal/CMD and enter pip install 'library name'
+The code is written in Python, so make sure to have the latest version of python installed. For scripting, either an IDE or an online platform such as Jupyter or Google Colab could be used. To install the necessary libraries, please open your terminal/CMD and enter pip install 'library name'.
