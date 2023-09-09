@@ -24,6 +24,7 @@ The code is written in Python, so make sure to have the latest version of python
 ### Preview
 
 **1. Home Page with KPIs and buttons**
+
 ![image](https://github.com/nikhilsukhdev/CashFlow-Analysis/assets/46552468/2909bf0e-6fdf-4733-82a8-c3c69aeab822)
 
 **2. Business Overview**
